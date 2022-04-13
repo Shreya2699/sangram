@@ -1,0 +1,50 @@
+*{
+	margin:0px;
+	padding:0px;
+}
+body{
+	
+	
+	
+	}
+.head1{
+	
+	
+	background:url("https://wallpaperaccess.com/full/3425367.jpg");
+	background-position:center;
+	background-repeat:no-repeat;
+	background-size:cover;
+	height:100%;
+	font-size:50px;
+	font-weight:bold;
+	text-align:center;
+}
+.head11{
+	padding:20%;
+	background:transparent;
+}
+#btn{
+	color:white;
+	font-size:30px;
+	border-color:white;
+}
+.next{
+	display:None;
+	padding:30px;
+	padding-top:40px;
+	
+}
+.ig{
+	float:left;
+}
+.ig1{
+	float:right;
+}
+.tex{
+	padding:20px;
+	text-align:center;
+	text-wrap:wrap;
+	font-size:40px;
+	
+}
+	
